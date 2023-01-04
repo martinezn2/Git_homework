@@ -1,0 +1,4 @@
+Hello,
+It is a new day.
+I am adding this one to practice.
+let's commit and then push
